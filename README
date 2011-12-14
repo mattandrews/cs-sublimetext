@@ -1,5 +1,7 @@
 - add the file Velocity.sublime-package to /sublime/Pristine Packages/
 
+- add the file r2.sublime-project to your R2 root. edit it to change the path to where your R2 is installed
+
 - restart Sublime Text
 
 - open a .vm file (or .ssp), click view > syntax > open all with current extension as... > velocity > velocity (html)

@@ -1,0 +1,27 @@
+{
+     "build_systems":
+     [
+             {
+                     "cmd":["ant", "clean", "clean-resin", "dev-deploy", "start-resin"],
+                     "name": "R2 Build Local"
+             },
+             {
+                     "cmd":["ant", "clean", "clean-resin", "dev-deploy", "start-resin-code"],
+                     "name": "R2 Build Code"
+             },
+             {
+                     "cmd":["ant", "clean", "clean-resin", "dev-deploy", "start-resin-qa"],
+                     "name": "R2 Build QA"
+             }
+     ],
+     "folders":
+     [
+             {
+                     "folder_exclude_patterns":
+                     [
+                             "target"
+                     ],
+                     "path": "/home/mandrews/r2/"
+             }
+     ]
+}
