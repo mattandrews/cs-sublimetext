@@ -1,0 +1,9 @@
+- add the file Velocity.sublime-package to /sublime/Pristine Packages/
+
+- restart Sublime Text
+
+- open a .vm file (or .ssp), click view > syntax > open all with current extension as... > velocity > velocity (html)
+
+- ????
+
+- profit.
