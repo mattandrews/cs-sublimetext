@@ -1,4 +1,4 @@
-- add the file Velocity.sublime-package to /sublime/Pristine Packages/
+- add the file Velocity.sublime-package to ~/.config/sublime-text-3/Installed\ Packages
 
 - add the file r2.sublime-project to your R2 root. edit it to change the path to where your R2 is installed
 
